@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM24",
+    "sketch": "Codes\\Flesx_test\\Flesx_test.ino"
+}
